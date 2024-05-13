@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FTPCore:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="FTPCore.jar">
+      <element id="module-output" name="FTPCore" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-net/commons-net/3.10.0/commons-net-3.10.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
